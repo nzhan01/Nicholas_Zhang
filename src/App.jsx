@@ -18,8 +18,9 @@ function App() {
             <About/>
             <div id ="projects">
                 <h2>Projects</h2>
-                <Projects name ="Valentines Card" description ="Interactive valentines card" github="https://github.com/nzhan01/JDT-spring-25-alpha/tree/main/workspace/valentines"/>
                 <Projects name ="Movie_Max App" description ="Interactive movie watchlist maker" github="https://github.com/nzhan01/movie_max_app/tree/final"/>
+                <Projects name ="Valentines Card" description ="Interactive valentines card" github="https://github.com/nzhan01/JDT-spring-25-alpha/tree/main/workspace/valentines"/>
+                <Projects name ="Memory Box" description = "Personal scrapbook" github="https://github.com/nzhan01/de351midterm1"/>
 
             </div>
 
