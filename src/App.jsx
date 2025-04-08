@@ -17,11 +17,13 @@ function App() {
             <Profile/>
 
 
-            <Chat/>
+
             <About/>
+            <Chat/>
             <div id ="projects">
                 <h2>Projects</h2>
                 <Projects name ="Movie_Max App" description ="Interactive movie watchlist maker" github="https://github.com/nzhan01/movie_max_app/tree/final"/>
+                <Projects name = "Movie info App" description = "Get movie information using the OMDB" github="https://github.com/nzhan01/mp-4"/>
                 <Projects name ="Valentines Card" description ="Interactive valentines card" github="https://github.com/nzhan01/JDT-spring-25-alpha/tree/main/workspace/valentines"/>
                 <Projects name ="Memory Box" description = "Personal memory scrapbook for my Deaf Literature class" github="https://github.com/nzhan01/de351midterm1"/>
 
