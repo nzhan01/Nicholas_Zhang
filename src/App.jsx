@@ -8,7 +8,7 @@ import Projects from './components/projects/projects.jsx';
 import './components/projects/projects.css';
 import Experiences from './components/experiences/experiences.jsx'
 import About from './components/about/about.jsx'
-import Chat from './components/chat/chat.jsx'
+//import Chat from './components/chat/chat.jsx'
 function App() {
     return (
         
@@ -19,7 +19,6 @@ function App() {
 
 
             <About/>
-            <Chat/>
             <div id ="projects">
                 <h2>Projects</h2>
                 <Projects name ="Movie_Max App" description ="Interactive movie watchlist maker" github="https://github.com/nzhan01/movie_max_app/tree/final"/>
